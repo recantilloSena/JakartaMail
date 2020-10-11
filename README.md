@@ -11,7 +11,7 @@ Run application using
 mvn clean package 
 ```
 
-Open [http://localhost:8080/cdi](http://localhost:8080/cdi) in browser.
+Open [http://localhost:8080/jakarta-cdi-14/cdi](http://localhost:8080/jakarta-cdi-14/cdi) in browser.
 
 Una vista de Vaadin le permitirá enviar correos electrónicos Utilizando la API de Jakarta Mail.
 
@@ -20,4 +20,5 @@ Una vista de Vaadin le permitirá enviar correos electrónicos Utilizando la API
 
 ### Deployment
 
-The application is deployed on the Payara Server 5
+The application is deployed on the Payara Server 5.1.92
+Use Vaadin 14 Framework 
